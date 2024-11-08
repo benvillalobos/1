@@ -1,11 +1,14 @@
 id: lessonpart1
 title: Welcome to 1
 duration: 5
-content: |-
+content: |+
   **Welcome to the course authoring!**
-
-
   You can use Markdown to format your content.
+
+
+
+
+
 showContent: true
 showEditor: false
 showTerminal: false
