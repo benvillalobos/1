@@ -4,6 +4,7 @@ duration: 5
 content: |-
   **Welcome to the course authoring!**
 
+
   You can use Markdown to format your content.
 showContent: true
 showEditor: false
